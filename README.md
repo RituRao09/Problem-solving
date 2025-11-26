@@ -41,16 +41,14 @@ This repository documents my journey of mastering Data Structures, Algorithms, a
 * **Tools:** Jupyter Notebooks, Git/GitHub
 
 ## 📈 Daily Progress
-I commit to solving **[X]** problems per week. 
-* **Current Streak:** [Update this manually, e.g., "Week 4"]
-* **Total Problems Solved:** [Update this manually, e.g., "50+"]
+I commit to solving **[25]** problems per week. 
+* **Current Streak:** Week 1
+* **Total Problems Solved:** will update soon
 
 ---
 
 ## mailbox_with_mail: Connect with Me
 I am currently open to Data Analyst and Data Science opportunities.
-* **LinkedIn:** [Link to your Profile]
-* **Portfolio/Blog:** [Link if you have one]
-* **Email:** [Your Email Address]
+* **Email:** riturao0909@gmail.com
 
 *Thanks for visiting my repository!*

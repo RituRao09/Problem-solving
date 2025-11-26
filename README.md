@@ -3,7 +3,7 @@
 > **Status:** Active | **Focus:** Python, SQL, Data Manipulation, Machine Learning
 
 ## 👋 About Me
-Hi! I am **[Your Name]**, an aspiring Data Scientist passionate about solving data problems. 
+Hi! I am **Ritu Rao**, an aspiring Data Scientist passionate about solving data problems. 
 
 This repository documents my journey of mastering Data Structures, Algorithms, and SQL queries. I don't just solve problems; I focus on **efficiency**, **readability**, and **understanding the "why"** behind every solution.
 
